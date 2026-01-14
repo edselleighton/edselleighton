@@ -1,4 +1,5 @@
-## Hi there 👋
+- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=5000&color=00ffbd&center=false&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Edsel;)](https://git.io/typing-svg)
+
 
 <!--
 **edselleighton/edselleighton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
